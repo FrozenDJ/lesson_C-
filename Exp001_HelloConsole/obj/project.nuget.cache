@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQ1MDlYHp4+cggXd2aU7BMNVrrdiSF9Y6ejfo4EgZj4JakM4Q0CTPG1lAqU1yAz+JjCKQ0tVqXPfeJTD7m+vSQ==",
+  "dgSpecHash": "w34QO7ZCDOmfIe9nPrsae59PBifW/BAOYQOJwSwjay8VxxgK9hLZ9R3Yv6hoNzBEZytpwD96hFs3jCNVr/fu5g==",
   "success": true,
-  "projectFilePath": "E:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj",
+  "projectFilePath": "e:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

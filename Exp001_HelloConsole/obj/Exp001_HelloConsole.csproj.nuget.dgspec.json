@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj": {}
+    "e:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj": {}
   },
   "projects": {
-    "E:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj": {
+    "e:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj",
+        "projectUniqueName": "e:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj",
         "projectName": "Exp001_HelloConsole",
-        "projectPath": "E:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj",
+        "projectPath": "e:\\git_study\\lesson_C#\\Exp001_HelloConsole\\Exp001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\р\\.nuget\\packages\\",
-        "outputPath": "E:\\git_study\\lesson_C#\\Exp001_HelloConsole\\obj\\",
+        "outputPath": "e:\\git_study\\lesson_C#\\Exp001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\р\\AppData\\Roaming\\NuGet\\NuGet.Config"
