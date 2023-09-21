@@ -1,0 +1,15 @@
+E:\git_study\lesson_C#\Exp002_HelloUser\bin\Debug\net6.0\Exp002_HelloUser.exe
+E:\git_study\lesson_C#\Exp002_HelloUser\bin\Debug\net6.0\Exp002_HelloUser.deps.json
+E:\git_study\lesson_C#\Exp002_HelloUser\bin\Debug\net6.0\Exp002_HelloUser.runtimeconfig.json
+E:\git_study\lesson_C#\Exp002_HelloUser\bin\Debug\net6.0\Exp002_HelloUser.dll
+E:\git_study\lesson_C#\Exp002_HelloUser\bin\Debug\net6.0\Exp002_HelloUser.pdb
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\Exp002_HelloUser.csproj.AssemblyReference.cache
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\Exp002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\Exp002_HelloUser.AssemblyInfoInputs.cache
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\Exp002_HelloUser.AssemblyInfo.cs
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\Exp002_HelloUser.csproj.CoreCompileInputs.cache
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\Exp002_HelloUser.dll
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\refint\Exp002_HelloUser.dll
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\Exp002_HelloUser.pdb
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\Exp002_HelloUser.genruntimeconfig.cache
+E:\git_study\lesson_C#\Exp002_HelloUser\obj\Debug\net6.0\ref\Exp002_HelloUser.dll
